@@ -60,9 +60,17 @@ nav {
   border: 1px solid var(--hospital-green);
   color: var(--hospital-green);
 }
+nav .menu:hover{
+  opacity: 10%;
+}
+.navbar-right ul .navbar-email:hover {
+  color: black;
+  border: solid var(--hospital-green);
+  border-radius: 5px;
+}
 
 .navbar-email {
-  
+  padding: 5px;
   color: var(--very-light-pink);
   font-size: var(--sm);
   margin-right: 12px;
@@ -161,7 +169,7 @@ nav {
 
     .product-detail {
 
-      background-color: rgb(226, 226, 226);
+      background-color: rgb(245, 245, 245);
       padding: 24px;
       box-sizing: border-box;
       position: absolute;
@@ -237,15 +245,20 @@ nav {
       height: 50px;
     }
    
+
+
+    
 /* las media query*/
     
 @media (max-width: 700px) {
   .menu {
     display: block;
   }
+
   .navbar-left ul {
     display: none;
   }
+
   .navbar-email {
     display: none;
   }
@@ -253,6 +266,7 @@ nav {
   .desktop-menu{
     display: none;
   }
+  
   .product-detail {
     width: 90%;
   }
