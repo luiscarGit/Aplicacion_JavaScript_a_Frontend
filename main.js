@@ -98,6 +98,53 @@ productList.push({
     image: "https://img.freepik.com/free-psd/laptop-mockup-white_160403-30.jpg?w=2000&t=st=1677786237~exp=1677786837~hmac=9460fb53b9a0fcba6832ca0ba6b2bb7dc1fea9085714e63a44d4825aa5d9c94d",
 
 })
+productList.push({
+
+    Name: "bike",
+    Price: 120,
+    image: "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+
+})
+
+productList.push({
+
+    Name: "pantalla",
+    Price: 300,
+    image: "https://img.freepik.com/free-psd/computer-screen-white-background-mock-up_1022-135.jpg?w=2000&t=st=1677786151~exp=1677786751~hmac=1005b9cca06086517b40741ea5e84e171c0dfab7052c4fa3cf075ff7b25c4ce0",
+
+})
+
+productList.push({
+
+    Name: "computador",
+    Price: 1200,
+    image: "https://img.freepik.com/free-psd/laptop-mockup-white_160403-30.jpg?w=2000&t=st=1677786237~exp=1677786837~hmac=9460fb53b9a0fcba6832ca0ba6b2bb7dc1fea9085714e63a44d4825aa5d9c94d",
+
+})
+
+productList.push({
+
+    Name: "bike",
+    Price: 120,
+    image: "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+
+})
+
+productList.push({
+
+    Name: "pantalla",
+    Price: 300,
+    image: "https://img.freepik.com/free-psd/computer-screen-white-background-mock-up_1022-135.jpg?w=2000&t=st=1677786151~exp=1677786751~hmac=1005b9cca06086517b40741ea5e84e171c0dfab7052c4fa3cf075ff7b25c4ce0",
+
+})
+
+productList.push({
+
+    Name: "computador",
+    Price: 1200,
+    image: "https://img.freepik.com/free-psd/laptop-mockup-white_160403-30.jpg?w=2000&t=st=1677786237~exp=1677786837~hmac=9460fb53b9a0fcba6832ca0ba6b2bb7dc1fea9085714e63a44d4825aa5d9c94d",
+
+})
 
 
 function renderProducts(arreglo){
